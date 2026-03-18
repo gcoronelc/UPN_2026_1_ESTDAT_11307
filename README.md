@@ -5,7 +5,7 @@
 ## DATOS DEL CURSO
 
 - Nombre: ESTRUCTURA DE DATOS
-- Lugar: Universidad Pricada del Norte
+- Lugar: Universidad Privada del Norte
 - Horario: Miercoles de : a : Horas
 - Inicio: 25.MAR.2026
 - Duración: 16 Semanas

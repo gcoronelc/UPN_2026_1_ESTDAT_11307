@@ -1,7 +1,7 @@
 ﻿CLONAR EL REPOSITORIO
 ----------------------------------------------
 
-git clone https://github.com/gcoronelc/UPN_2026_1_ESTDAT_11309.git
+git clone https://github.com/gcoronelc/UPN_2026_1_ESTDAT_11307.git
 
 
 

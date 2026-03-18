@@ -6,8 +6,8 @@
 
 - Nombre: ESTRUCTURA DE DATOS
 - Lugar: Universidad Pricada del Norte
-- Horario: Miercoles de 10:50 a 14:00 Horas
-- Inicio: 24.MAR.2026
+- Horario: Miercoles de : a : Horas
+- Inicio: 25.MAR.2026
 - Duración: 16 Semanas
 
 

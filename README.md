@@ -6,7 +6,7 @@
 
 - Nombre: ESTRUCTURA DE DATOS
 - Lugar: Universidad Privada del Norte
-- Horario: Miercoles de : a : Horas
+- Horario: Miercoles de 07:30 a 10:40 Horas
 - Inicio: 25.MAR.2026
 - Duración: 16 Semanas
 

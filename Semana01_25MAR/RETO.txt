@@ -1,0 +1,5 @@
+RETO
+=================================
+Elementos de la lista enlazada:
+10 -> 20 -> 30 -> NULL
+Presione una tecla para salir...

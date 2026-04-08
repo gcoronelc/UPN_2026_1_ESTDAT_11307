@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\EGCC\\UPN_2026_1_ESTDAT_11309\\Semana03_07ABR26\\GestionProductos\\GestionProductos\\GestionProductos.csproj": {}
+    "D:\\EGCC\\UPN_2026_1_ESTDAT_11307\\Semana03_08ABR26\\GestionProductos\\GestionProductos\\GestionProductos.csproj": {}
   },
   "projects": {
-    "D:\\EGCC\\UPN_2026_1_ESTDAT_11309\\Semana03_07ABR26\\GestionProductos\\GestionProductos\\GestionProductos.csproj": {
+    "D:\\EGCC\\UPN_2026_1_ESTDAT_11307\\Semana03_08ABR26\\GestionProductos\\GestionProductos\\GestionProductos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EGCC\\UPN_2026_1_ESTDAT_11309\\Semana03_07ABR26\\GestionProductos\\GestionProductos\\GestionProductos.csproj",
+        "projectUniqueName": "D:\\EGCC\\UPN_2026_1_ESTDAT_11307\\Semana03_08ABR26\\GestionProductos\\GestionProductos\\GestionProductos.csproj",
         "projectName": "GestionProductos",
-        "projectPath": "D:\\EGCC\\UPN_2026_1_ESTDAT_11309\\Semana03_07ABR26\\GestionProductos\\GestionProductos\\GestionProductos.csproj",
+        "projectPath": "D:\\EGCC\\UPN_2026_1_ESTDAT_11307\\Semana03_08ABR26\\GestionProductos\\GestionProductos\\GestionProductos.csproj",
         "packagesPath": "C:\\Users\\UPN\\.nuget\\packages\\",
-        "outputPath": "D:\\EGCC\\UPN_2026_1_ESTDAT_11309\\Semana03_07ABR26\\GestionProductos\\GestionProductos\\obj\\",
+        "outputPath": "D:\\EGCC\\UPN_2026_1_ESTDAT_11307\\Semana03_08ABR26\\GestionProductos\\GestionProductos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

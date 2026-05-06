@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EGCC\\UPN_2026_1_ESTDAT_11307\\Semana07_06MAY26\\EjemploCola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D12AD0FB-1F48-4AD5-B2E9-D97896E14BC8}|EjemploCola\\EjemploCola.csproj|d:\\egcc\\upn_2026_1_estdat_11307\\semana07_06may26\\ejemplocola\\ejemplocola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12AD0FB-1F48-4AD5-B2E9-D97896E14BC8}|EjemploCola\\EjemploCola.csproj|solutionrelative:ejemplocola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12AD0FB-1F48-4AD5-B2E9-D97896E14BC8}|EjemploCola\\EjemploCola.csproj|d:\\egcc\\upn_2026_1_estdat_11307\\semana07_06may26\\ejemplocola\\ejemplocola\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12AD0FB-1F48-4AD5-B2E9-D97896E14BC8}|EjemploCola\\EjemploCola.csproj|solutionrelative:ejemplocola\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12AD0FB-1F48-4AD5-B2E9-D97896E14BC8}|EjemploCola\\EjemploCola.csproj|d:\\egcc\\upn_2026_1_estdat_11307\\semana07_06may26\\ejemplocola\\ejemplocola\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12AD0FB-1F48-4AD5-B2E9-D97896E14BC8}|EjemploCola\\EjemploCola.csproj|solutionrelative:ejemplocola\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12AD0FB-1F48-4AD5-B2E9-D97896E14BC8}|EjemploCola\\EjemploCola.csproj|d:\\egcc\\upn_2026_1_estdat_11307\\semana07_06may26\\ejemplocola\\ejemplocola\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12AD0FB-1F48-4AD5-B2E9-D97896E14BC8}|EjemploCola\\EjemploCola.csproj|solutionrelative:ejemplocola\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "D:\\EGCC\\UPN_2026_1_ESTDAT_11307\\Semana07_06MAY26\\EjemploCola\\EjemploCola\\Cola.cs",
+              "RelativeDocumentMoniker": "EjemploCola\\Cola.cs",
+              "ToolTip": "D:\\EGCC\\UPN_2026_1_ESTDAT_11307\\Semana07_06MAY26\\EjemploCola\\EjemploCola\\Cola.cs",
+              "RelativeToolTip": "EjemploCola\\Cola.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwGwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T13:55:25.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "D:\\EGCC\\UPN_2026_1_ESTDAT_11307\\Semana07_06MAY26\\EjemploCola\\EjemploCola\\Nodo.cs",
+              "RelativeDocumentMoniker": "EjemploCola\\Nodo.cs",
+              "ToolTip": "D:\\EGCC\\UPN_2026_1_ESTDAT_11307\\Semana07_06MAY26\\EjemploCola\\EjemploCola\\Nodo.cs",
+              "RelativeToolTip": "EjemploCola\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T13:50:57.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\EGCC\\UPN_2026_1_ESTDAT_11307\\Semana07_06MAY26\\EjemploCola\\EjemploCola\\Producto.cs",
+              "RelativeDocumentMoniker": "EjemploCola\\Producto.cs",
+              "ToolTip": "D:\\EGCC\\UPN_2026_1_ESTDAT_11307\\Semana07_06MAY26\\EjemploCola\\EjemploCola\\Producto.cs",
+              "RelativeToolTip": "EjemploCola\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T13:41:41.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EGCC\\UPN_2026_1_ESTDAT_11307\\Semana07_06MAY26\\EjemploCola\\EjemploCola\\Program.cs",
+              "RelativeDocumentMoniker": "EjemploCola\\Program.cs",
+              "ToolTip": "D:\\EGCC\\UPN_2026_1_ESTDAT_11307\\Semana07_06MAY26\\EjemploCola\\EjemploCola\\Program.cs",
+              "RelativeToolTip": "EjemploCola\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA9wBUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T13:36:27.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

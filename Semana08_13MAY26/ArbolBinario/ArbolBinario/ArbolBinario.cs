@@ -16,6 +16,62 @@ namespace ArbolBinario
             this.Raiz = null;
         }
 
+        public void MostrarArbol()
+        {
+            if (Raiz == null)
+            {
+                Console.WriteLine("El árbol está vacío.");
+                return;
+            }
+
+            // La raíz se imprime sola, luego arranca la jerarquía con │
+            Console.WriteLine(Raiz.Dato);
+
+            bool tieneIzquierda = Raiz.Izquierda != null;
+            bool tieneDerecha = Raiz.Derecha != null;
+
+            if (tieneIzquierda && tieneDerecha)
+            {
+                MostrarNodo(Raiz.Izquierda, "", false);
+                MostrarNodo(Raiz.Derecha, "", true);
+            }
+            else if (tieneIzquierda)
+            {
+                MostrarNodo(Raiz.Izquierda, "", true);
+            }
+            else if (tieneDerecha)
+            {
+                MostrarNodo(Raiz.Derecha, "", true);
+            }
+        }
+
+        private void MostrarNodo(Nodo nodo, string prefijo, bool esUltimo)
+        {
+            if (nodo == null) return;
+
+            string conector = esUltimo ? "└─ " : "├─ ";
+            string prefijHijos = prefijo + (esUltimo ? "   " : "│  ");
+
+            Console.WriteLine(prefijo + conector + nodo.Dato);
+
+            bool tieneIzquierda = nodo.Izquierda != null;
+            bool tieneDerecha = nodo.Derecha != null;
+
+            if (tieneIzquierda && tieneDerecha)
+            {
+                MostrarNodo(nodo.Izquierda, prefijHijos, false);
+                MostrarNodo(nodo.Derecha, prefijHijos, true);
+            }
+            else if (tieneIzquierda)
+            {
+                MostrarNodo(nodo.Izquierda, prefijHijos, true);
+            }
+            else if (tieneDerecha)
+            {
+                MostrarNodo(nodo.Derecha, prefijHijos, true);
+            }
+        }
+
         public void AgregarNodo(int dato)
         {
             Raiz = AgregarRecursivo(this.Raiz,dato);

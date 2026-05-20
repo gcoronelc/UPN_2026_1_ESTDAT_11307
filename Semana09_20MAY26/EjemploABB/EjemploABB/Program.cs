@@ -22,10 +22,13 @@ namespace EjemploABB
 			arbol.Insertar(25);
 
 			arbol.MostrarJerarquico();
-			Console.WriteLine("======================");
+			Console.WriteLine("==============================");
 			arbol.MostrarComoArbol();
-			Console.ReadKey();
+            Console.WriteLine("==============================");
+            Console.WriteLine($"Existe el 20: {arbol.Buscar(20)}");
+            Console.WriteLine($"Existe el 100: {arbol.Buscar(100)}");
+            //Console.ReadKey();
 
-		}
+        }
 	}
 }

@@ -6,3 +6,10 @@ D:\UPN\UG-ESTRUCTURA DE DATOS\EGCC\Semana09\EjemploABB\EjemploABB\bin\Debug\Ejem
 D:\UPN\UG-ESTRUCTURA DE DATOS\EGCC\Semana09\EjemploABB\EjemploABB\obj\Debug\EjemploABB.exe
 D:\UPN\UG-ESTRUCTURA DE DATOS\EGCC\Semana09\EjemploABB\EjemploABB\obj\Debug\EjemploABB.pdb
 D:\UPN\UG-ESTRUCTURA DE DATOS\EGCC\Semana09\EjemploABB\EjemploABB\obj\Debug\EjemploABB.exe.config
+D:\EGCC\UPN_2026_1_ESTDAT_11307\Semana09_20MAY26\EjemploABB\EjemploABB\bin\Debug\EjemploABB.exe.config
+D:\EGCC\UPN_2026_1_ESTDAT_11307\Semana09_20MAY26\EjemploABB\EjemploABB\bin\Debug\EjemploABB.exe
+D:\EGCC\UPN_2026_1_ESTDAT_11307\Semana09_20MAY26\EjemploABB\EjemploABB\bin\Debug\EjemploABB.pdb
+D:\EGCC\UPN_2026_1_ESTDAT_11307\Semana09_20MAY26\EjemploABB\EjemploABB\obj\Debug\EjemploABB.csproj.AssemblyReference.cache
+D:\EGCC\UPN_2026_1_ESTDAT_11307\Semana09_20MAY26\EjemploABB\EjemploABB\obj\Debug\EjemploABB.csproj.CoreCompileInputs.cache
+D:\EGCC\UPN_2026_1_ESTDAT_11307\Semana09_20MAY26\EjemploABB\EjemploABB\obj\Debug\EjemploABB.exe
+D:\EGCC\UPN_2026_1_ESTDAT_11307\Semana09_20MAY26\EjemploABB\EjemploABB\obj\Debug\EjemploABB.pdb

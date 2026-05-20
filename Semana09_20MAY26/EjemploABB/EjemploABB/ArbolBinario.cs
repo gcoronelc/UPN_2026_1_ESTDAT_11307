@@ -32,12 +32,31 @@ namespace EjemploABB
 			return nodo;
 		}
 
+        /**
+		 * Buscar valor
+		 **/
+        public bool Buscar(int valor)
+		{
+			return BuscarRecursivo(Raiz, valor);
+		}
 
-		/**
+        public bool BuscarRecursivo(Nodo nodo, int valor)
+        {
+            if (nodo == null)
+                return false;
+            if (valor == nodo.Valor)
+                return true;
+            if (valor < nodo.Valor)
+                return BuscarRecursivo(nodo.Izquierda, valor);
+            return BuscarRecursivo(nodo.Derecha, valor);
+        }
+
+
+        /**
 		 * Muestra el árbol de forma jerárquica.
 		 * La raíz se muestra en la parte superior, y los hijos se muestran debajo con indentación.
 		 */
-		public void MostrarJerarquico()
+        public void MostrarJerarquico()
 		{
 			if (Raiz == null)
 			{

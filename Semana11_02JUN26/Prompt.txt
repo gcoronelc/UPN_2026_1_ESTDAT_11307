@@ -1,0 +1,20 @@
+Asume el rol de un experto en estructura de datos con C# con +15 años de experiencia y un reconocido docente universitario con +10 años de experiencia. 
+
+Estoy desarrollando un proyecto sobre arboles binarios en general, y necesito sustentar la parte teórica con fuentes confiable y verificables, debes ser libros y artículos científicos de revistas de prestigio por ejemplo scopus y web of science. 
+
+Prepara un archivo Word con el sustento teórico, debidamente citado y referenciado según APA 7. No inventas nada, todo debe estar sustentado. Si tienes dudas puedes hacer las preguntas pertinentes, pero una por una.
+
+
+
+* Árbol binario general
+* Árbol binario completo
+* Árbol binario perfecto
+* Árbol binario lleno (full)
+* Árbol binario balanceado
+* Árbol binario de búsqueda (BST)
+* Árbol AVL
+* Árboles binarios expresivos (expression trees)
+* Recorridos (preorden, inorden, postorden, por niveles)
+* Operaciones (inserción, eliminación, búsqueda)
+* Análisis de complejidad temporal y espacial
+* Implementación en C#
